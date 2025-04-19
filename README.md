@@ -22,3 +22,5 @@ Through the development of this portfolio webpage, I gained valuable experience 
 * **Best Practices for Online Portfolios:** Considering user experience and the effective presentation of personal and professional information online.
 
 This project serves as a dynamic and visually engaging representation of my skills and projects, demonstrating my front-end development capabilities in creating a compelling online portfolio using fundamental web technologies.
+
+[Sample ScreenShot](https://github.com/user-attachments/assets/f962210e-a78a-4232-9bb5-4e8674574946)
